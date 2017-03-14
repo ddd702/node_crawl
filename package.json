@@ -1,0 +1,17 @@
+{
+  "name": "node_crawl",
+  "version": "1.0.0",
+  "description": "crawl webSite with nodejs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "ddd",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "express": "^4.13.4",
+    "later": "^1.2.0",
+    "superagent": "^1.7.2"
+  }
+}
